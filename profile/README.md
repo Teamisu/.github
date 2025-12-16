@@ -2,7 +2,7 @@
 
 
 
-**Here are some ideas to get you started:**
+**Welcome to Teamisu:**
 
 * 🙋‍♀️ I make the things - and its easier to work with said thing if its a github organization
 
